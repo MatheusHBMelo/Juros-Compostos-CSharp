@@ -5,7 +5,7 @@
 ### Informações sobre o código:
 
 * Desenvolvido em dois ambientes, [Visual Studio Code](https://code.visualstudio.com/) e [GDB online Debugger](https://www.onlinegdb.com/);
-* Nesse modelo o capital, o prazo e a taxa de juros são solicitados ao usuário;
+* Nesse modelo, o capital, o prazo e a taxa de juros são solicitados ao usuário;
 * O código reúne os dados e calcula os montantes, gerando os valores mensais;
 
 ### Tecnologia usada:
